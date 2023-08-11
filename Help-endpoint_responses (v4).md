@@ -1,3 +1,4 @@
+- Changes: Updated link for Asyncapi Documents
 ## Help Endpoint Responses (v4)
 
 ### /help
